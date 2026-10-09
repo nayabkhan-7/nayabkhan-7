@@ -1,16 +1,30 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**nayabkhan-7/nayabkhan-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Nayab 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=700&lines=I'm+curious+about+the+logic+behind+what+we+see.;Exploring+ideas.+Building+with+purpose.;Learning%2C+adapting%2C+and+evolving+with+technology." alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Computer Science Student · Aspiring Developer · Always Learning, Building & Growing**
+
+</div>
+
+---
+
+### 🌱 Beyond the Code
+
+- 🧠 Curious about the logic, systems, and ideas behind technology.
+- 🔍 I enjoy exploring how things work and finding better ways to solve problems.
+- 💡 Turning curiosity into ideas, and ideas into meaningful projects.
+- 🚀 Continuously learning, adapting, and growing with the evolving tech world.
+
+### ⚡ My Mindset
+
+> Stay curious. Think deeply. Build intentionally. Keep evolving.
+
+---
+
+<div align="center">
+
+*Curiosity drives me. Consistency shapes me. Growth defines the journey.* 💚
+
+</div>
