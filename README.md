@@ -25,6 +25,6 @@
 
 <div align="center">
 
-*Stay curious. Think deeply. Build intentionally. Keep evolving.* 💚
+*Think deeply. Build intentionally. Keep evolving.* 💚
 
 </div>
