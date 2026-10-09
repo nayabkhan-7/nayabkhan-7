@@ -11,7 +11,7 @@
 
 ---
 
-### 🌱 A Little About Me
+### 🌸 A Little About Me
 
 - 🧠 Interested in the logic behind technology and how things work.
 - 🔍 I enjoy finding better ways to solve problems.
@@ -19,8 +19,8 @@
 
 ### ⚡ What I'm Exploring
 
-- 🚀 Exploring different technologies and discovering new possibilities.
-- 🛠️ Developing my skills through hands-on projects and continuous learning.
+- 🔭 Exploring different technologies and discovering new possibilities.
+- 👨‍💻 Developing my skills through hands-on projects and continuous learning.
 
 ---
 
