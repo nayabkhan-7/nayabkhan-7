@@ -13,12 +13,13 @@
 
 ### 🌱 A Little About Me
 
-- 🔍 Exploring how systems work and how problems can be solved.
-- 💡 Turning ideas into practical projects.
+- 🧠 Interested in the logic behind technology and how things work.
+- 🔍 I enjoy finding better ways to solve problems.
+- 💡 Turning curiosity into ideas, and ideas into meaningful projects.
 
 ### ⚡ What I'm Exploring
 
-- 🚀 Exploring technologies and discovering new possibilities.
+- 🚀 Exploring different technologies and discovering new possibilities.
 - 🛠️ Developing my skills through hands-on projects and continuous learning.
 
 ---
